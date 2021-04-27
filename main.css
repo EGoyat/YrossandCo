@@ -1,0 +1,33 @@
+*{
+    font-family: 'Caveat Brush', cursive;
+    padding: 0%;
+}
+
+.all{
+    border-style: solid;
+}
+
+.item{
+    display: flex;
+    border-style: solid;
+    border-color: #8a9471;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.container{
+    display: flex;
+    flex-basis: auto;
+    justify-content: center;
+    flex-direction: row;
+}
+    
+
+h1{
+    color: #ed9319;
+}
+
+h2{
+    color:  #8a9471;
+}
